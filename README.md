@@ -29,13 +29,16 @@ A small pipeline, in scope for ~3-4 hours:
 
 1. Create a Python virtual environment and activate it.
 2. Install dependencies: ``` pip install -r requirements.txt ```
-3. Create a `.env` file in the project root: ```
+3. Create a `.env` file in the project root: 
+```
 HF_TOKEN=your_huggingface_token
 THERSOLD=0.2
+
 ```
 
 
 ## Run
+
 ```
 python3 demo.py
 python3 eval.py

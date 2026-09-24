@@ -1,0 +1,152 @@
+[
+  {
+    "doc_id": "ARS-Q2FY26-RES-01",
+    "company": "Aarav Steel Ltd",
+    "ticker": "AARAVSTL",
+    "doc_type": "Quarterly Results",
+    "date": "2026-08-05",
+    "quarter": "Q1FY27",
+    "section": "Financial Highlights",
+    "text": "Aarav Steel Ltd reported consolidated revenue of INR 4,812 crore for Q1FY27, up 11.4% year-on-year, driven by higher realizations in flat steel products. EBITDA margin expanded to 17.2% from 15.8% in the prior year quarter, aided by softer coking coal costs."
+  },
+  {
+    "doc_id": "ARS-Q2FY26-RES-02",
+    "company": "Aarav Steel Ltd",
+    "ticker": "AARAVSTL",
+    "doc_type": "Quarterly Results",
+    "date": "2026-08-05",
+    "quarter": "Q1FY27",
+    "section": "Segment Performance",
+    "text": "The company's export volumes declined 6% quarter-on-quarter due to anti-dumping duties imposed by the European Union in June 2026, partially offset by stronger domestic infrastructure demand."
+  },
+  {
+    "doc_id": "ARS-EC-Q2FY26-01",
+    "company": "Aarav Steel Ltd",
+    "ticker": "AARAVSTL",
+    "doc_type": "Earnings Call Transcript",
+    "date": "2026-08-06",
+    "quarter": "Q1FY27",
+    "section": "Management Commentary",
+    "text": "On the earnings call, CFO Priya Menon guided for full-year FY27 EBITDA margin in the range of 16.5% to 18%, and said capex of INR 1,200 crore for the new Odisha plant remains on track for commissioning in Q4FY27."
+  },
+  {
+    "doc_id": "ARS-INS-2026-09-01",
+    "company": "Aarav Steel Ltd",
+    "ticker": "AARAVSTL",
+    "doc_type": "Insider Trading Disclosure",
+    "date": "2026-09-02",
+    "quarter": "Q2FY27",
+    "section": "SAST Disclosure",
+    "text": "Promoter entity Aarav Family Trust sold 3,20,000 shares (0.42% of paid-up capital) between 25-29 August 2026 at an average price of INR 612.4, reducing promoter holding from 54.1% to 53.68%."
+  },
+  {
+    "doc_id": "ARS-DEL-FY26-01",
+    "company": "Aarav Steel Ltd",
+    "ticker": "AARAVSTL",
+    "doc_type": "Guidance vs Delivery Note",
+    "date": "2026-08-05",
+    "quarter": "Q1FY27",
+    "section": "Guidance Tracking",
+    "text": "Management had guided in Q4FY26 for the Odisha plant to be commissioned by Q3FY27; this has now been pushed to Q4FY27, the second delay in the project's timeline since it was first announced in FY25."
+  },
+  {
+    "doc_id": "BPH-Q2FY26-RES-01",
+    "company": "Bhavani Pharma Ltd",
+    "ticker": "BHAVPHARMA",
+    "doc_type": "Quarterly Results",
+    "date": "2026-08-11",
+    "quarter": "Q1FY27",
+    "section": "Financial Highlights",
+    "text": "Bhavani Pharma Ltd posted Q1FY27 revenue of INR 1,946 crore, up 8.1% year-on-year, with US generics business growing 14% on the back of new product launches in the injectables portfolio."
+  },
+  {
+    "doc_id": "BPH-Q2FY26-RES-02",
+    "company": "Bhavani Pharma Ltd",
+    "ticker": "BHAVPHARMA",
+    "doc_type": "Quarterly Results",
+    "date": "2026-08-11",
+    "quarter": "Q1FY27",
+    "section": "Regulatory",
+    "text": "The company disclosed that its Vizag formulation facility received four observations from the US FDA following an inspection in July 2026, none classified as data integrity related; a response has been filed within the stipulated 15-day window."
+  },
+  {
+    "doc_id": "BPH-EC-Q2FY26-01",
+    "company": "Bhavani Pharma Ltd",
+    "ticker": "BHAVPHARMA",
+    "doc_type": "Earnings Call Transcript",
+    "date": "2026-08-12",
+    "quarter": "Q1FY27",
+    "section": "Management Commentary",
+    "text": "CEO Rakesh Iyer stated on the call that the company expects US pricing pressure to stabilise in H2FY27 and reiterated full-year revenue growth guidance of 10-12%, while flagging that the Vizag FDA observations could delay two pending product approvals by one to two quarters."
+  },
+  {
+    "doc_id": "BPH-SH-2026-08-01",
+    "company": "Bhavani Pharma Ltd",
+    "ticker": "BHAVPHARMA",
+    "doc_type": "Shareholding Pattern",
+    "date": "2026-08-15",
+    "quarter": "Q1FY27",
+    "section": "Institutional Holding",
+    "text": "FII holding in Bhavani Pharma Ltd increased from 18.4% to 19.9% quarter-on-quarter as of 30 June 2026, while domestic mutual fund holding was broadly flat at 12.1%."
+  },
+  {
+    "doc_id": "CTX-Q2FY26-RES-01",
+    "company": "Chandra Textiles Ltd",
+    "ticker": "CHANDRATEX",
+    "doc_type": "Quarterly Results",
+    "date": "2026-07-28",
+    "quarter": "Q1FY27",
+    "section": "Financial Highlights",
+    "text": "Chandra Textiles Ltd reported a 4.3% year-on-year decline in Q1FY27 revenue to INR 812 crore, citing weak export demand from the United States and Europe amid destocking by large retail buyers."
+  },
+  {
+    "doc_id": "CTX-Q2FY26-RES-02",
+    "company": "Chandra Textiles Ltd",
+    "ticker": "CHANDRATEX",
+    "doc_type": "Quarterly Results",
+    "date": "2026-07-28",
+    "quarter": "Q1FY27",
+    "section": "Margins",
+    "text": "Gross margin contracted by 220 basis points year-on-year to 28.6% due to higher cotton procurement costs and lower capacity utilisation of 71%, down from 82% in the prior year quarter."
+  },
+  {
+    "doc_id": "CTX-EC-Q2FY26-01",
+    "company": "Chandra Textiles Ltd",
+    "ticker": "CHANDRATEX",
+    "doc_type": "Earnings Call Transcript",
+    "date": "2026-07-29",
+    "quarter": "Q1FY27",
+    "section": "Management Commentary",
+    "text": "Management said order inquiries had picked up in July 2026 and expressed cautious optimism that capacity utilisation could recover to the mid-70s percentage range by Q3FY27, but declined to give specific revenue guidance citing demand uncertainty."
+  },
+  {
+    "doc_id": "DLL-Q2FY26-RES-01",
+    "company": "Deccan Logistics Ltd",
+    "ticker": "DECCANLOG",
+    "doc_type": "Quarterly Results",
+    "date": "2026-08-09",
+    "quarter": "Q1FY27",
+    "section": "Financial Highlights",
+    "text": "Deccan Logistics Ltd reported Q1FY27 revenue of INR 1,102 crore, up 19.6% year-on-year, with the warehousing segment growing 27% driven by new e-commerce fulfilment contracts signed in FY26."
+  },
+  {
+    "doc_id": "DLL-ALT-2026-08-01",
+    "company": "Deccan Logistics Ltd",
+    "ticker": "DECCANLOG",
+    "doc_type": "Alternative Data Note",
+    "date": "2026-08-20",
+    "quarter": "Q1FY27",
+    "section": "Freight & Mobility Signal",
+    "text": "Internal freight-movement tracking shows a 9% month-on-month increase in truck volumes on Deccan Logistics-linked highway corridors in July 2026, consistent with the company's reported warehousing segment growth."
+  },
+  {
+    "doc_id": "DLL-MON-2026-08-01",
+    "company": "Deccan Logistics Ltd",
+    "ticker": "DECCANLOG",
+    "doc_type": "Regulatory Monitor",
+    "date": "2026-08-22",
+    "quarter": "Q1FY27",
+    "section": "Policy Impact",
+    "text": "The Ministry of Road Transport's revised axle-load norms, effective 1 October 2026, are expected to marginally raise Deccan Logistics' fleet compliance costs; the company has not yet quantified the impact publicly."
+  }
+]

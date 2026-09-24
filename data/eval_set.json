@@ -1,0 +1,72 @@
+[
+  {
+    "id": "e1",
+    "question": "What was Aarav Steel's Q1FY27 revenue growth?",
+    "expected_doc_ids": ["ARS-Q2FY26-RES-01"],
+    "answerable": true,
+    "notes": "Direct financial-highlight lookup."
+  },
+  {
+    "id": "e2",
+    "question": "What EBITDA margin guidance did Aarav Steel's CFO give for FY27?",
+    "expected_doc_ids": ["ARS-EC-Q2FY26-01"],
+    "answerable": true,
+    "notes": "Management guidance from earnings call, not the results release."
+  },
+  {
+    "id": "e3",
+    "question": "Has Aarav Steel delivered on its Odisha plant commissioning timeline?",
+    "expected_doc_ids": ["ARS-DEL-FY26-01"],
+    "answerable": true,
+    "notes": "Tests guidance-vs-delivery tracking, a named Prism capability."
+  },
+  {
+    "id": "e4",
+    "question": "Did any Aarav Steel promoter sell shares recently, and how much?",
+    "expected_doc_ids": ["ARS-INS-2026-09-01"],
+    "answerable": true,
+    "notes": "Insider trading disclosure lookup."
+  },
+  {
+    "id": "e5",
+    "question": "What did the US FDA find at Bhavani Pharma's Vizag facility?",
+    "expected_doc_ids": ["BPH-Q2FY26-RES-02"],
+    "answerable": true,
+    "notes": "Regulatory disclosure lookup."
+  },
+  {
+    "id": "e6",
+    "question": "How is Bhavani Pharma's FII shareholding trending?",
+    "expected_doc_ids": ["BPH-SH-2026-08-01"],
+    "answerable": true,
+    "notes": "Shareholding-pattern lookup."
+  },
+  {
+    "id": "e7",
+    "question": "Why did Chandra Textiles' margins contract in Q1FY27?",
+    "expected_doc_ids": ["CTX-Q2FY26-RES-02"],
+    "answerable": true,
+    "notes": "Causal financial question requiring the margins section specifically."
+  },
+  {
+    "id": "e8",
+    "question": "Is there independent alternative-data support for Deccan Logistics' reported warehousing growth?",
+    "expected_doc_ids": ["DLL-ALT-2026-08-01", "DLL-Q2FY26-RES-01"],
+    "answerable": true,
+    "notes": "Cross-source corroboration question spanning filings + alt-data."
+  },
+  {
+    "id": "e9",
+    "question": "What was Vishal Cements' Q1FY27 revenue?",
+    "expected_doc_ids": [],
+    "answerable": false,
+    "notes": "Adversarial: company does not exist in the corpus. System must abstain, not hallucinate a figure."
+  },
+  {
+    "id": "e10",
+    "question": "What is Aarav Steel's Q3FY28 revenue guidance?",
+    "expected_doc_ids": [],
+    "answerable": false,
+    "notes": "Adversarial: real company, but no source covers this future/unavailable data point. Must abstain."
+  }
+]
